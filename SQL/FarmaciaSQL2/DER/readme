@@ -1,33 +1,5 @@
 # 💊 Projeto de Banco de Dados - Sistema de Farmácia
 
-Este projeto contém a modelagem inicial do banco de dados para um sistema de farmácia. Ele foi desenvolvido com foco em organizar as principais entidades e relacionamentos necessários para o funcionamento de um sistema completo de controle farmacêutico.
-
-## 📘 Conteúdo
-
-- Modelo Entidade-Relacionamento (MER)
-- Diagrama Entidade-Relacionamento (DER)
-- Script de criação do banco de dados
-
-## 🧩 Objetivo
-
-Desenvolver uma estrutura de banco de dados eficiente e normalizada que atenda às necessidades de um sistema de farmácia, incluindo:
-
-- Cadastro de produtos/medicamentos
-- Controle de estoque
-- Registro de vendas
-- Cadastro de clientes e fornecedores
-- Controle de receitas e validade de medicamentos
-
-## 🗃️ Entidades Principais
-
-- **Produto**: nome, categoria, laboratório, validade, preço
-- **Cliente**: nome, CPF, telefone
-- **Receita**: CRM médico, validade, medicamento prescrito
-- **Venda**: data, valor total, itens vendidos
-- **Fornecedor**: razão social, CNPJ, contato
-
-## 🗺️ Diagramas
-
 Os arquivos do MER e DER estão disponíveis na pasta `/diagramas`.
 
 - `MER.pdf` – Modelo conceitual das entidades e seus atributos
